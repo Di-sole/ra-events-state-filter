@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+[![Build status](https://ci.appveyor.com/api/projects/status/co97duxachm6mkt7?svg=true)](https://ci.appveyor.com/project/Di-sole/ra-events-state-filter)
+# Портфолио с фильтрами
+
+[GitHub Pages](https://di-sole.github.io/ra-events-state-filter/) 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
